@@ -1,10 +1,9 @@
 # First_App
-My first android app
+
 
 
 ### App Description
-`TODO://` Add app description
-
+`My first android app. 
 ### App Walk-though
 
 <img src="http://g.recordit.co/w8bX14V0Rl.gif" width=200><br>
