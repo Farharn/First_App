@@ -8,7 +8,7 @@ My first android app
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="https://recordit.co/w8bX14V0Rl" width=200><br>
+<img src="http://g.recordit.co/w8bX14V0Rl.gif" width=200><br>
 
 `
 
