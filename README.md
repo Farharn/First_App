@@ -4,7 +4,7 @@
 
 ### App Description
 `My first android app. 
-### App Walk-though
+### App Walk-through
 
 <img src="http://g.recordit.co/w8bX14V0Rl.gif" width=200><br>
 
